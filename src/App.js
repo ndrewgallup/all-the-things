@@ -12,6 +12,7 @@ import AllThings from './pages/SomeThings/SomeThings'
 
 
 
+
 const App = () => {
   const [shahzadsThings, setShazadsThings] = useState([
     {
