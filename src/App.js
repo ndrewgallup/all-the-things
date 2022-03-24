@@ -8,7 +8,7 @@ import SillyThings from './pages/SillyThings/SIllyThings'
 import Landing from './pages/Landing/Landing'
 import GoodThings from './pages/GoodThings/GoodThings'
 import CrazyThings from './pages/CrazyThings/CrazyThings'
-import SomeThings from './pages/SomeThings/SomeThings'
+import AllThings from './pages/SomeThings/SomeThings'
 
 
 
